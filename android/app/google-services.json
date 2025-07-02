@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50861521977",
+    "project_id": "aab-e-pak-app",
+    "storage_bucket": "aab-e-pak-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50861521977:android:8c2a796a958dc40ca5e1e8",
+        "android_client_info": {
+          "package_name": "com.example.aab_e_pak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1-1svmV8otQnPb2xG93pFB6kr7aoeS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

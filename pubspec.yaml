@@ -1,0 +1,46 @@
+name: aab_e_pak
+description: Aab-e-Pak – Water Tanker & Bottle Delivery App
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase services
+  firebase_core: ^3.13.1
+  firebase_auth: ^5.5.4
+  cloud_firestore: ^5.6.8
+  firebase_database: ^11.3.7
+
+  # Notifications
+  flutter_local_notifications: ^19.2.1
+
+  # Location and Maps
+  google_maps_flutter: ^2.6.0
+  geolocator: ^14.0.1
+  geocoding: ^2.1.0
+  location: ^8.0.0
+  permission_handler: ^12.0.0+1
+
+  # UI and Utilities
+  google_fonts: ^6.1.0
+  provider: ^6.1.5
+  cupertino_icons: ^1.0.6
+  device_frame: ^1.1.0
+  device_preview: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/google_logo.png
+    - assets/tanker.png
